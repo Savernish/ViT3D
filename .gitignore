@@ -1,0 +1,10 @@
+data/
+checkpoints/
+results/
+repos/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.safetensors
+.env
